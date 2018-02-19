@@ -5,3 +5,5 @@
 =======
 # Adcionei mais uma linha no arquivo, no branch notebook
 >>>>>>> notebook
+
+# nova linha
